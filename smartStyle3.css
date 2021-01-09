@@ -1,0 +1,32 @@
+@media screen and (max-width: 479px){
+	.header{
+		width: 200px;
+		height: 200px;
+	}
+	.header-contents{
+		width: 60px;
+		height: 160px;
+		margin-right: 70px;
+	}
+	.header-box{
+		margin: 10px 10px 0 0;
+	}
+	.left{
+		width: 200px;
+		height: 100px;
+	}
+	.right{
+		width: 200px;
+		height: 180px;
+	}
+	.right-contents{
+		margin: 20px 0 0 25px;
+	}
+	.right-box{
+		box-sizing: border-box;
+	}
+	.footer{
+		width: 200px;
+	}
+
+}
